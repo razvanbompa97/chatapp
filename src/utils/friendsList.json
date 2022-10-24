@@ -1,0 +1,68 @@
+[
+  {
+    "id": "u1",
+    "name": "Marian Bompa",
+    "image": "https://pickaface.net/gallery/avatar/TeMix5618f2bc4e2ea.png",
+    "isActive": false
+  },
+  {
+    "id": "u2",
+    "name": "Bogdan Muresan",
+    "image": "https://pickaface.net/gallery/avatar/brilliantme53e577ef03bc9.png",
+    "isActive": false
+  },
+  {
+    "id": "u3",
+    "name": "Marian Demeter",
+    "image": "https://pickaface.net/gallery/avatar/unr_eduardoavator_170411_2205_yk7xv.png",
+    "isActive": false
+  },
+  {
+    "id": "u4",
+    "name": "Laurentiu Suciu",
+    "image": "https://pickaface.net/gallery/avatar/sebastien.larcher5270905bcf67b.png",
+    "isActive": false
+  },
+  {
+    "id": "u5",
+    "name": "Raul Micheu",
+    "image": "https://pickaface.net/gallery/avatar/unr_sample_161118_2054_ynlrg.png",
+    "isActive": false
+  },
+  {
+    "id": "u6",
+    "name": "Catalin Chereches",
+    "image": "https://pickaface.net/gallery/avatar/19242458_180728_2138_981a7j.png",
+    "isActive": false
+  },
+  {
+    "id": "u7",
+    "name": "Prieten nou 1",
+    "image": "https://pickaface.net/gallery/avatar/19242458_180728_2138_981a7j.png",
+    "isActive": false
+  },
+  {
+    "id": "u8",
+    "name": "Prieten nou 2",
+    "image": "https://pickaface.net/gallery/avatar/19242458_180728_2138_981a7j.png",
+    "isActive": false
+  },
+  {
+    "id": "u9",
+    "name": "Prieten nou 3",
+    "image": "https://pickaface.net/gallery/avatar/19242458_180728_2138_981a7j.png",
+    "isActive": false
+  },
+  {
+    "id": "u10",
+    "name": "Prieten nou 4",
+    "image": "https://pickaface.net/gallery/avatar/19242458_180728_2138_981a7j.png",
+    "isActive": false
+  },
+  {
+    "id": "u11",
+    "name": "Prieten nou 5",
+    "image": "https://pickaface.net/gallery/avatar/19242458_180728_2138_981a7j.png",
+    "isActive": false
+  }
+]

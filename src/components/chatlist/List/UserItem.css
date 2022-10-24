@@ -1,0 +1,54 @@
+.user-item {
+  height: 10%;
+  margin: 5px 0px;
+  padding: 0px 15px 0px 5px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #cffef4;
+}
+
+.user-image {
+  display: flex;
+  justify-content: flex-start;
+  padding: 2px;
+}
+
+.user-image img {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.user-message-info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.user-info {
+  line-height: 25px;
+}
+
+.user-info--name {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.user-info--message {
+  font-size: 14px;
+  color: #667781;
+}
+
+.user-info--message--date {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #667781;
+}
+
+.user-item:hover {
+  background-color: #a5dfd3;
+  cursor: pointer;
+  transform: scale(1.02);
+  transition: all 0.5s ease;
+}

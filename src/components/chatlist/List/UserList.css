@@ -1,0 +1,6 @@
+.user-list {
+  height: 100%;
+  border-top: 1px solid #cffef4;
+  max-height: 98vh;
+  overflow-y: auto;
+}

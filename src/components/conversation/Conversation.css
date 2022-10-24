@@ -1,0 +1,7 @@
+.conversation {
+  width: 60%;
+  border-left: 2px solid #cffef4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,97 @@
+.chat-footer {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: auto;
+  height: 9%;
+  align-items: center;
+}
+
+.add-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add-button svg {
+  height: 30px;
+}
+
+.add-button-text {
+  font-size: 14px;
+  color: #667781;
+}
+
+.add-button svg:hover {
+  cursor: pointer;
+  color: #5ed7bd;
+  transition: all 0.5s ease;
+}
+
+.add-group-user {
+  height: 15%;
+  margin: 5px 0px;
+  padding: 0px 5px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #cffef4;
+}
+
+.add-group-user:hover {
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #a5dfd3;
+}
+
+.add-group-user-image {
+  display: flex;
+  justify-content: flex-start;
+  padding: 2px;
+}
+
+.add-group-user-image img {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.add-group-user-message-info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.add-group-user-info {
+  line-height: 25px;
+}
+
+.add-group-user-info--name {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.add-group-actions {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+
+.add-group-actions button {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #a5dfd3;
+  border-radius: 4px;
+  background: #a5dfd3;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.add-group-actions button:disabled {
+  cursor: not-allowed;
+  background: #dadee6;
+}

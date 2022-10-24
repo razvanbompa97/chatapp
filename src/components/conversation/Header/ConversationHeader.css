@@ -1,0 +1,16 @@
+.conversation-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background: #f6f7f6;
+  height: 15%;
+}
+.conversation-header img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+.conversation-header--user-name {
+  font-size: 22px;
+}

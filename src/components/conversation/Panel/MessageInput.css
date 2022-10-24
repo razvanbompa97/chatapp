@@ -1,0 +1,63 @@
+.message-form {
+  display: flex;
+  justify-content: space-between;
+  background: #f6f7f6;
+  height: 35px;
+  padding: 20px;
+}
+
+.message-input {
+  width: 100%;
+}
+
+.message-input-image {
+  align-self: center;
+  margin: 10px;
+  color: #dadee6;
+}
+
+.message-input-image input {
+  display: none;
+}
+
+.message-input-image svg {
+  height: 30px;
+  width: 30px;
+}
+
+.message-input-image:hover {
+  cursor: pointer;
+  color: #5ed7bd;
+  transition: all 0.5s ease;
+}
+
+.message-emoji {
+  align-self: center;
+  margin-right: 10px;
+  color: #dadee6;
+}
+
+.message-emoji svg {
+  height: 30px;
+}
+
+.message-emoji:hover {
+  cursor: pointer;
+  color: #5ed7bd;
+  transition: all 0.5s ease;
+}
+
+.send-button {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.send-button:hover {
+  cursor: pointer;
+  background-color: #5ed7bd;
+  transition: all 0.5s ease;
+  border: 2px solid white;
+  color: white;
+}

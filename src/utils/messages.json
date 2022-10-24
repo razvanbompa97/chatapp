@@ -1,0 +1,86 @@
+[
+  {
+    "id": "u1",
+    "receivedMessages": [
+      {
+        "text": "Salut",
+        "date": "20 Oct 2022 14:41:34"
+      },
+      {
+        "text": "Ce faci?",
+        "date": "20 Oct 2022 14:41:42"
+      }
+    ],
+    "sentMessages": [
+      {
+        "text": "Salut",
+        "date": "20 Oct 2022 14:43:14"
+      },
+      {
+        "text": "Bine, tu?",
+        "date": "20 Oct 2022 14:43:25"
+      }
+    ]
+  },
+  {
+    "id": "u2",
+    "receivedMessages": [],
+    "sentMessages": [
+      {
+        "text": "Salut, ce faci?",
+        "date": "20 Oct 2022 15:23:14"
+      }
+    ]
+  },
+  {
+    "id": "u3",
+    "receivedMessages": [],
+    "sentMessages": []
+  },
+  {
+    "id": "u4",
+    "receivedMessages": [
+      {
+        "text": "Salut",
+        "date": "20 Oct 2022 14:41:34"
+      },
+      {
+        "text": "Ce faci?",
+        "date": "20 Oct 2022 14:41:42"
+      }
+    ],
+    "sentMessages": []
+  },
+  {
+    "id": "u5",
+    "receivedMessages": [
+      {
+        "text": "Salut",
+        "date": "20 Oct 2022 14:41:34"
+      },
+      {
+        "text": "Ce faci?",
+        "date": "20 Oct 2022 14:41:42"
+      }
+    ],
+    "sentMessages": []
+  },
+  {
+    "id": "u6",
+    "receivedMessages": [
+      {
+        "text": "Salut",
+        "date": "20 Oct 2022 14:41:34"
+      },
+      {
+        "text": "Ce faci?",
+        "date": "20 Oct 2022 14:41:42"
+      }
+    ],
+    "sentMessages": []
+  },
+  {
+    "id": "g1",
+    "messages": []
+  }
+]
